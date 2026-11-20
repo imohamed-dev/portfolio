@@ -2,7 +2,7 @@
 
 Data scientist with a background in mathematics and physics. Focused on end-to-end pipelines built with rigor — validating assumptions with evidence, questioning results before trusting them, and documenting decisions clearly from raw data through to a tuned, tested model.
 
-[GitHub](https://github.com/mibrahim-ml) · [Email](mailto:imohame@gmail.com)
+[GitHub](https://github.com/imohamed-dev) · [Email](mailto:imohame@gmail.com)
 
 ---
 
@@ -17,7 +17,7 @@ End-to-end pipeline predicting median district home values from 1990 census data
 - **MAE:** $30.8K
 - **RMSE:** $46.8K
 
-[View repository →](https://github.com/mibrahim-ml/California-Housing-Price-Prediction)
+[View repository →](https://github.com/imohamed-dev/California-Housing-Price-Prediction)
 
 
 ### Medical Appointment No-Show Analysis (EDA)
